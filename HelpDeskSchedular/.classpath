@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/lib/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/lib/javax.activation.jar"/>
+	<classpathentry kind="lib" path="D:/lib/javax.mail.jar" sourcepath="C:/Users/200462/.m2/repository/javax/mail/mail/1.4.2/mail-1.4.2-sources.jar"/>
+	<classpathentry kind="lib" path="D:/lib/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/lib/quartz-2.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/lib/quartz-all-2.1.5.jar"/>
+	<classpathentry kind="lib" path="D:/lib/sqljdbc4-2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
